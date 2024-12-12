@@ -32,7 +32,6 @@ If you want you can visit my [portfolio](https://portofolio-cipta.netlify.app/)
 
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
-![Tailwind Logo](/images/Tailwind_Logo.svg)
 ![Javascript Logo](/images/javascript.svg)
 ![ReactJS Logo](/images/reactjs.svg)
 ![NextJS Logo](/images/nextjs.svg)
