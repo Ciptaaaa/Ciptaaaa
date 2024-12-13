@@ -42,10 +42,13 @@ If you want you can visit my [portfolio](https://portofolio-cipta.netlify.app/)
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://www.linkedin.com/in/diazekacipta/">
+  <a href="https://www.linkedin.com/in/diazekacipta/"
+     target="_blank"
+  rel="noopener noreferrer">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
-<a href="https://www.instagram.com/eka_cipta1/">
+<a href="https://www.instagram.com/eka_cipta1/"  target="_blank"
+  rel="noopener noreferrer">
 <code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
 </a>
 </p>
