@@ -38,7 +38,13 @@ If you want you can visit my [portfolio](https://portofolio-cipta.netlify.app/)
 ![Typescript Logo](/images/typescript.svg)
 
 ---
+<div style="text-align: center;">
+  <img src="https://github.com/Ciptaaaa/Ciptaaaa/blob/output/github-snake-dark.svg" alt="snake gif" width="100%">
+</div>
 
+<br>
+<br>
+<br>
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
