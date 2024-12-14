@@ -46,7 +46,7 @@ If you want you can visit my [portfolio](https://portofolio-cipta.netlify.app/)
 <br>
 <br>
 <p align="center" > 
-  <i>Thanks for passing by</i><br><br>
+  <br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://www.linkedin.com/in/diazekacipta/"
      target="_blank"
