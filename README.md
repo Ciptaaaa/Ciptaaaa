@@ -19,7 +19,6 @@ If you want you can visit my [portfolio](https://portofolio-cipta.netlify.app/)
 - 🌎 I'm from Indonesia
 - 👨🏻‍💻 Love programming and gaming
 - 🧠 Love sharing knowledge
-- 🌌 Passionate for astronomy
 - 📧 Reach me via diazekacipta467@gmail.com
 
 <br>
