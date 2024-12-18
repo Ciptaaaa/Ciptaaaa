@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile 
+# <img src="./images/hi.gif" width="3%"/> Hey dev! Welcome to my profile 
 
 I am a Frontend Developer with a passion for creating visually appealing and user-friendly web experiences. 
 
