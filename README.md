@@ -8,7 +8,7 @@ I specialize in React, JavaScript, Bootstrap, and Tailwind. With a strong unders
 
 My goal is to create visually stunning and easy to use websites that provide an excellent user experience. Let's work together to bring your next project to life!
 
-If you want you can visit my [portfolio](https://portofolio-cipta.netlify.app/)
+If you want you can visit my [portfolio](https://portofoliocipta.netlify.app)
 
 ## 👨🏻‍💻 About me
 
@@ -19,7 +19,7 @@ If you want you can visit my [portfolio](https://portofolio-cipta.netlify.app/)
 - 🌎 I'm from Indonesia
 - 👨🏻‍💻 Love programming and gaming
 - 🧠 Love sharing knowledge
-- 📧 Reach me via diazekacipta467@gmail.com
+- 📧 Reach me via diazekaciptaa@gmail.com
 
 <br>
 <br>
